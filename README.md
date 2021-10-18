@@ -1,6 +1,14 @@
 # special_card
 
-A new Flutter project.
+Flutter UI Design | Animated Flip Card.
+
+![thumbnail](https://user-images.githubusercontent.com/68671238/137789065-efaed438-1917-494e-b6ef-529a700102de.png)
+
+* *Demo for the app:*
+
+
+https://user-images.githubusercontent.com/68671238/137789148-d0bd505c-d338-412a-9acf-223ec6b98be4.mp4
+
 
 ## Getting Started
 
